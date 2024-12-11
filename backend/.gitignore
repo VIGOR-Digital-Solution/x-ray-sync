@@ -9,6 +9,9 @@
 # daemon folder of windows service
 /daemon
 
+# puppeteer
+.cache
+
 # logs folder (automatically generated)
 /logs
 
